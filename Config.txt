@@ -1,0 +1,3 @@
+Layers = 3
+Layer_I = 8
+Layer_II = 24
